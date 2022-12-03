@@ -13,13 +13,14 @@
 ## Quá trình thực hiện
 
 | Thời gian  | Công việc                                                   | Người thực hiện |
-|------------|-------------------------------------------------------------|-----------------|
-| 29/11/2022 | Lựa chọn chủ đề đồ án và tìm kiếm dataset                   | Hùng            |
-| 29/11/2022 | Tìm hiểu và crawl data từ nhatot.vn bằng selenium           | Hùng            |
-| 30/11/2022 | Hoàn thiện việc crawl data                                  | Hùng            |
-| 01/12/2022 | Viết phần thu thập dữ liệu cho final notebook               | Hùng            |
-| 02/02/2022 | Phát hiện crawl sai, crawl data lại từ đầu, dùng chotot api | Hùng            |
-
+|------------|-------------------------------------------------------------|:---------------:|
+| 29/11/2022 | Lựa chọn chủ đề đồ án và tìm kiếm dataset                   |      Hùng       |
+| 29/11/2022 | Tìm hiểu và crawl data từ nhatot.vn bằng selenium           |      Hùng       |
+| 30/11/2022 | Hoàn thiện việc crawl data                                  |      Hùng       |
+| 01/12/2022 | Viết phần thu thập dữ liệu cho final notebook               |      Hùng       |
+| 02/12/2022 | Phát hiện crawl sai, crawl data lại từ đầu, dùng chotot api |      Hùng       |
+| 03/12/2022 | Thực hiện khám phá và tiền xử lý dữ liệu                    |      Hùng       |
+| 04/12/2022 | Làm slide báo cáo                                           |      Hùng       |
 
 ## Tham khảo
 
