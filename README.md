@@ -10,6 +10,12 @@
 
 - Tìm hiểu về giá thuê chung cư ở thành phố Hồ Chí Minh
 
+## Cấu trúc đồ án
+
+Bao gồm 2 module chính:
+    + Crawl data: crawl-data.ipynb
+    + Phân tích và trả lời câu hỏi: final.ipynb
+
 ## Quá trình thực hiện
 
 | Thời gian  | Công việc                                                   | Người thực hiện |
@@ -21,6 +27,10 @@
 | 02/12/2022 | Phát hiện crawl sai, crawl data lại từ đầu, dùng chotot api |      Hùng       |
 | 03/12/2022 | Thực hiện khám phá và tiền xử lý dữ liệu                    |      Hùng       |
 | 04/12/2022 | Làm slide báo cáo                                           |      Hùng       |
+| 07/12/2022 | Tìm hiểu và trả lời câu hỏi                                 |      Hùng       |
+| 09/12/2022 | Tìm hiểu và trả lời câu hỏi                                 |      Hùng       |
+| 11/12/2022 | Chỉnh sửa lại văn phong                                     |      Hùng       |
+| 14/12/2022 | Hoàn thiện đồ án để nộp                                     |      Hùng       |
 
 ## Tham khảo
 
