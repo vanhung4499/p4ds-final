@@ -34,6 +34,8 @@ Bao gồm 2 module chính:
 
 ## Tham khảo
 
-- [nhatot.vn](https://www.nhatot.com/thue-can-ho-chung-cu-tp-ho-chi-minh)
-- [stackoverflow](https://stackoverflow.com/)
-- Tài liệu, bài tập môn học
++ [https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset)
++ [https://www.kaggle.com/datasets/rubenssjr/brasilian-houses-to-rent](https://www.kaggle.com/datasets/rubenssjr/brasilian-houses-to-rent)
++ Tài liệu môn học, các bài lab
++ [nhatot.vn](https://www.nhatot.com/thue-can-ho-chung-cu-tp-ho-chi-minh)
++ [stackoverflow](https://stackoverflow.com/)
